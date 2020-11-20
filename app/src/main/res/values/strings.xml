@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokemones</string>
+    <string name="nombre_pokemon">NOMBRE POKEMON</string>
+    <string name="imagenpokemon">ImagenPokemon</string>
+    <string name="id">ID</string>
+    <string name="categorias_pokemon">CATEGORIAS POKEMON</string>
+</resources>
